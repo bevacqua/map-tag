@@ -1,0 +1,15 @@
+{
+  "name": "map-tag",
+  "version": "1.0.0",
+  "description": "🏷 Map template literal expression interpolations with ease",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevacqua/map-tag.git"
+  },
+  "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevacqua/map-tag/issues"
+  },
+  "homepage": "https://github.com/bevacqua/map-tag#readme"
+}
